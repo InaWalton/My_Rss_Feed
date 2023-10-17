@@ -1,0 +1,3 @@
+## [女主人、女老板 - 有碼](https://rsshub.app/javbus/genre/38)
+ - RSS 地址：https://raw.githubusercontent.com/InaWalton/My_Rss_Feed/main/JavBus/genre/%E5%A5%B3%E4%B8%BB%E4%BA%BA%E3%80%81%E5%A5%B3%E8%80%81%E6%9D%BF%20-%20%E6%9C%89%E7%A2%BC/rss.xml
+ - 或：https://raw.githubusercontent.com/InaWalton/My_Rss_Feed/main/JavBus/genre/%E5%A5%B3%E4%B8%BB%E4%BA%BA%E3%80%81%E5%A5%B3%E8%80%81%E6%9D%BF%20-%20%E6%9C%89%E7%A2%BC/rss.xml#force_feed
