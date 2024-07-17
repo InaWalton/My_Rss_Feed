@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+    xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>
+            <![CDATA[孕婦]]>
+        </title>
+        <link>https://www.javbus.com/genre/15</link>
+        <atom:link href="https://raw.githubusercontent.com/InaWalton/My_Rss_Feed/main/JavBus/%E5%AD%95%E5%A9%A6%20-%20%E6%9C%89%E7%A2%BC/rss.xml" rel="self" type="application/rss+xml" />
+        <description>
+            <![CDATA[]]>
+        </description>
+        <generator>InaWalton</generator>
+        <lastBuildDate>Wed, 17 Jul 2024 08:27:44 GMT</lastBuildDate>
+    </channel>
+</rss>
